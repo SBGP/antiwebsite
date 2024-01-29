@@ -9,7 +9,7 @@ body {
     line-height: 35px;  
 }  
 .title {
-    font-family: 'Renogare';
+    font-family: 'Renogare-Regular';
     font-size: 70px;
     color: #c49dff;
     text-shadow: 3px 3px #a889da;
@@ -23,7 +23,7 @@ body {
 }
 .bodytext {
     margin: 2.5%;
-    font-family: 'Renogare';
+    font-family: 'Renogare-Regular';
     font-size: 35px;
     color: #ffffff;
     text-shadow: 1.5px 1.5px #c49dff;
